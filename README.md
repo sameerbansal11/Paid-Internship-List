@@ -15,6 +15,33 @@ Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/bl
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
 <hr>
+<details>
+<summary>Google STEP Internship (Software Engineering)</summary>
+<br>
+About <br>
+The Google STEP (Student Training in Engineering Program) Internship is designed for 2nd and 3rd year undergraduate students passionate about computer science. STEP interns work on real Google projects alongside full-time engineers, gaining hands-on experience in software development, problem solving, and large-scale system design. It is one of the most competitive and prestigious internship programs for pre-final year engineering students in India.<br>
+<br>
+
+Job description:<br>
+As a STEP intern at Google, you will be embedded into an engineering team working on live products used by billions of users. You will write production-level code, attend design reviews, participate in team meetings, and present your work at the end of the internship. Mentors and senior engineers guide you throughout. The internship typically runs for 10–12 weeks during summer and is based out of Google's Hyderabad or Bangalore office.
+
+Pre-requisites:
+
+<ul>
+  <li>Currently enrolled in 2nd or 3rd year of B.Tech / B.E. (CSE / IT / ECE)</li>
+  <li>Strong foundation in Data Structures, Algorithms, and at least one programming language (C++, Java, or Python)</li>
+  <li>Good problem-solving skills — LeetCode / Codeforces practice recommended</li>
+  <li>No prior internship experience required — this program is specifically for early-year students</li>
+  <li>Apply via Google Careers portal; shortlisting is based on resume + coding rounds</li>
+</ul>
+
+Stipend: ₹1,50,000/month (approx) <br>
+Duration: 10–12 weeks (Summer) <br>
+Location: Hyderabad / Bangalore, India <br>
+Apply: <a href="https://careers.google.com/jobs/results/?category=ENGINEERING&employment_type=INTERN">Google Careers — STEP Internship</a> <br>
+Deadline: Applications typically open October – December each year <br>
+
+</details>
 
 <details>
 <summary>Accenture SDE Internship </summary>
@@ -22,11 +49,11 @@ Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/bl
 About <br>
 Jump-start your career when you join the Accenture Internship Program – an immersive curriculum designed to develop and empower you as you grow in your career. As an Accenture Intern, you will gain experience in working at the forefront of technology, solve business challenges, develop innovative solutions and learn from inspiring leaders. Thrive as you lead in doing work that matters while bringing out—and developing—the best in you..<br>
 <br>
- 
- Job description:<br>
- At Accenture, our interns work in project teams, which typically consist of 3 to 8 consultants led by a manager. The expectation is to have an active role in various aspects of the project: learning from professionals in the field, identifying issues, designing and conducting analyses, and helping to implement change. They are typically involved in discussions with, and presentations to senior client leaders. Our interns are usually assigned to a project on full-time basis. Each internship period generally lasts for 2-6 months.
- 
- Pre-requisites:
+
+Job description:<br>
+At Accenture, our interns work in project teams, which typically consist of 3 to 8 consultants led by a manager. The expectation is to have an active role in various aspects of the project: learning from professionals in the field, identifying issues, designing and conducting analyses, and helping to implement change. They are typically involved in discussions with, and presentations to senior client leaders. Our interns are usually assigned to a project on full-time basis. Each internship period generally lasts for 2-6 months.
+
+Pre-requisites:
 
 <ul>
   <li>To apply, please submit your resume and transcript</li>
@@ -39,18 +66,20 @@ Jump-start your career when you join the Accenture Internship Program – an imm
 Official Website- <br>
 https://www.accenture.com/sg-en/careers/local/accenture-internship-program<br>
 <br>
+
 </details>
 
 <details>
 <summary> Oracle Software Engineer Intern - Analytics Cloud </summary>
 <br>
 About <br>
-Get a foot in the door and perhaps even get the chance to interview early for one of the best technology jobs in the world. 
+Get a foot in the door and perhaps even get the chance to interview early for one of the best technology jobs in the world.
 Gain invaluable experience in what it is like to work at a leading global hardware and software systems innovator - Oracle. <br>
 
 Official Website- <br>
 https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
 <br>
+
 </details>
 
 <details>
@@ -76,27 +105,26 @@ https://www.cuvette.tech/<br>
 
 #### Responsibilities:
 
-* analyse business processes, find gaps and tackle problems in creative and logical ways and consistently brainstorm alternative solutions
-* collaborate with different stakeholders within and outside operations to solve problems and develop solutions
-* identifying automation opportunities and helping the teams to reduce the manual/monotonous efforts
-* draw up and generate reports and dashboards using BI tools (Tableau, Metabase, Redash) to support various functions in operations
-* utilise SQL to efficiently extract data for end-users
-* work on no code tool platform/Python for automation and other internal use cases
-* maximize output/efficiency of ticketing tools (CRM) for better customer experience
-* define metrics for continuous monitoring of performance
-* evaluate and create processes to handle customer queries for different LOBs
-* build an operating plan for CS for planning and strategy
-
+- analyse business processes, find gaps and tackle problems in creative and logical ways and consistently brainstorm alternative solutions
+- collaborate with different stakeholders within and outside operations to solve problems and develop solutions
+- identifying automation opportunities and helping the teams to reduce the manual/monotonous efforts
+- draw up and generate reports and dashboards using BI tools (Tableau, Metabase, Redash) to support various functions in operations
+- utilise SQL to efficiently extract data for end-users
+- work on no code tool platform/Python for automation and other internal use cases
+- maximize output/efficiency of ticketing tools (CRM) for better customer experience
+- define metrics for continuous monitoring of performance
+- evaluate and create processes to handle customer queries for different LOBs
+- build an operating plan for CS for planning and strategy
 
 #### Eligibility:<br>
-* possess strong analytical skills, make well judged decisions, have good numeracy and pay strong attention to detail with great problem solving
-have a flexible approach and can thrive under pressure and a fast paced work environment
-* are fluent in Microsoft Excel
-* exhibit good knowledge in SQL and have hands on experience with SQL
-* are familiar with data analytics and data visualization
-* have prior operations/customer centric internship experience
-* can be a full time intern for six months, join as early as possible and work out of the Bangalore office
 
+- possess strong analytical skills, make well judged decisions, have good numeracy and pay strong attention to detail with great problem solving
+  have a flexible approach and can thrive under pressure and a fast paced work environment
+- are fluent in Microsoft Excel
+- exhibit good knowledge in SQL and have hands on experience with SQL
+- are familiar with data analytics and data visualization
+- have prior operations/customer centric internship experience
+- can be a full time intern for six months, join as early as possible and work out of the Bangalore office
 
 Official Website- <br>
 https://careers.cred.club/jobPosting?apply_url=https://jobs.lever.co/cred/3332081c-d0b6-4672-b968-3f44024010a0/apply<br>
@@ -132,17 +160,19 @@ https://internshala.com/internship/detail/deep-learning-neural-network-work-from
 
 <details>
 <summary> JP Morgan SEP Internship Program </summary>
- 
+
 ## About
 
 JP Morgan's SEP Internship program is a summer internship program that gives students real-world experience.
 The selection of this program is done under code for good hackathon which is a hackathon that is held in the summer in which the deserving candidates receive the offer to join the program
 
 ### Code for Good Hackathon- <br>
+
 https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India<br>
- 
+
 ### JP Morgan SEP Intern Interview experience- <br>
- https://www.geeksforgeeks.org/jpmorgan-chase-co-code-for-good-internship-interview-experience-2021/
+
+https://www.geeksforgeeks.org/jpmorgan-chase-co-code-for-good-internship-interview-experience-2021/
 <br>
 
 </details>
@@ -161,9 +191,9 @@ About <br>
 - Proven ability to troubleshoot and identify the root cause of issues.<br>
 - Demonstrates skill and passion for operational excellence.<br>
 - Documentation skills<br>
-Official Website- <br>
-https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__India<br>
-<br>
+  Official Website- <br>
+  https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__India<br>
+  <br>
 
 </details>
 <details>
@@ -195,12 +225,12 @@ https://jobs.intel.com/job/bengaluru/graduate-intern/41147/34063306512<br>
 <summary> Amazon- Programmer Analyst Intern </summary>
 <br>
 About <br>
-The Transportation Team is looking for a passionate software programmer analyst 
+The Transportation Team is looking for a passionate software programmer analyst
 who will be responsible for working with business, operations to gather ship carrier requirements
  and collaborate with transportation technology teams to integrate new carriers and ship methods into the network.
-  As part of the integration, you have to design, develop and maintain transportation documents like shipping labels, 
-  carrier electronic manifest and invoices. You should also be working alongside development on Amazon Corporate and 
-  Divisional Software projects, updating/enhancing our current software, automation of manual configuration processes 
+  As part of the integration, you have to design, develop and maintain transportation documents like shipping labels,
+  carrier electronic manifest and invoices. You should also be working alongside development on Amazon Corporate and
+  Divisional Software projects, updating/enhancing our current software, automation of manual configuration processes
   and documentation of our systems.<br>
 
 Your solutions will impact our customers directly! This job requires you to constantly hit the ground
@@ -233,8 +263,6 @@ and get the right things done. <br>
 Official Website- <br>
 https://www.amazon.jobs/en-gb/jobs/1375720/programmer-analyst-intern<br>
 <br>
-
-
 
 </details>
 <details>
@@ -301,31 +329,31 @@ At IBM, we pride ourselves on being an early adopter of artificial intelligence,
 1. Interns bring in fresh ideas and perspectives to the lab and help us conduct world-class research, thus creating impact.
 2. IBM Research provides interns an environment where they experience a world-class industrial research setting.
 3. Projects completed during the internships become part of larger research projects at IBM.
-4.The projects that the students participate in are also of interest to the universities that they come from and help increase collaborations with the universities.
+   4.The projects that the students participate in are also of interest to the universities that they come from and help increase collaborations with the universities.
 
 <br>Required Technical and Professional Expertise</br>
 
 1. Student must be enrolled in one of the following degree program: Btech/MS/Mtech/PhD
-2. Preferred degrees include Computer science, Mathematics. 
-3. Student should have good hands-on experience in one or more of these programming languages widely used in open source community projects such as Go, Python, Ruby,      C/C++, Java, Node.js, Javascript etc.
+2. Preferred degrees include Computer science, Mathematics.
+3. Student should have good hands-on experience in one or more of these programming languages widely used in open source community projects such as Go, Python, Ruby, C/C++, Java, Node.js, Javascript etc.
 4. Student should have decent Linux programming exposure.
-5. Good to have some exposure to open source projects within Kubernetes/Big Data platform communities such as Knative, Operators, Fluentd, Prometheus, Elasticsearch      etc.
+5. Good to have some exposure to open source projects within Kubernetes/Big Data platform communities such as Knative, Operators, Fluentd, Prometheus, Elasticsearch etc.
 6. Good knowledge of software engineering practices including agile processes
 7. Student must have very strong problem solving aptitude and ability to delve into multifaceted pieces of knowledge
-
 
 <br>Who Can Apply : <br>
 Only those candidates can apply who:
 
 1. The student must be enrolled in either a Btech, MS, Mtech, or Ph.D. program.
    Mathematics and computer science degrees are preferred.
-2. One or more of these programming languages, such as Go, Python, Ruby, C/C++, Java, Node.js, Javascript, etc., which are frequently used in open-source community        projects, should be well-practiced by the student.
+2. One or more of these programming languages, such as Go, Python, Ruby, C/C++, Java, Node.js, Javascript, etc., which are frequently used in open-source community projects, should be well-practiced by the student.
 3. The student should have some programming experience with Linux.
-4. It is advantageous to have some familiarity with open source initiatives within the Kubernetes/Big Data platform communities, like Knative, Operators, Fluentd,        Prometheus, Elasticsearch, etc.
+4. It is advantageous to have some familiarity with open source initiatives within the Kubernetes/Big Data platform communities, like Knative, Operators, Fluentd, Prometheus, Elasticsearch, etc.
 5. Good familiarity with agile procedures in software engineering
 6. The student must have a very good knack for solving problems and the capacity to dig into complex areas of study.
 
 <br>Benifits : </br>
+
 <ul>
    <li>The interns receive a stipend that is competitive with other leading companies in India.</li>
    <li>Ierns receive an internship completion certificate from IBM after the successful completion of the internship.</li>
@@ -341,7 +369,6 @@ Only those candidates can apply who:
 To view the official notification of the IBM Summer 2023 Internship Program <a href="https://researcher.draco.res.ibm.com/researcher/view_group_subpage.php?id=8101">
 CLICK HERE.</a></li>
 </details>
-
 
 <details>
 <summary>Autodesk- Intern, Software Developer (PDMS-DPM-Engineering)</summary>
@@ -373,7 +400,7 @@ Official Website- <br>
 https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-Developer--PDMS-DPM-Engineering-_22WD57844<br>
 <br>
 
-</details>  
+</details>
 <details>
 <summary> 3D Game Development work from home job/internship at Camp K12</summary>
 <br> Important Inforamtion<br>
@@ -391,6 +418,7 @@ Selected intern's day-to-day responsibilities include:
 3. Make changes and debug the code to make games for kids
 
 <br? Skills Required <br>
+
 <ul>
     <li>Animation</li>
     <li>AutoCAD</li>
@@ -410,8 +438,8 @@ Only those candidates can apply who:
 
 4. have relevant skills and interests
 
-* Women wanting to start/restart their career can also apply.
-<br><a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a><br>
+- Women wanting to start/restart their career can also apply.
+  <br><a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a><br>
 
 </details>
 
@@ -482,7 +510,7 @@ Visit https://www.hackerrank.com/contests/hackerrank-internship-challenges/chall
 
 <h2>Create a resume.</h2>
 Go to hackerresume.com and create a resume there. ONLY the resumes created at HackerResume will be considered for the internship.
-Why do we ask for resume in this format? Your resume is actually reviewed by Hari, the CTO of HackerRank. He accepts of having "well designed resume bias". Everyone (including Hari) likes a good resume. But in an ideal world, only your work/skill in the resume should matter. Design of the resume should not decide whether you are selected to the next round or not. To avoid this bias completely, we are trying to get all the resume in a single, simple & same format. 
+Why do we ask for resume in this format? Your resume is actually reviewed by Hari, the CTO of HackerRank. He accepts of having "well designed resume bias". Everyone (including Hari) likes a good resume. But in an ideal world, only your work/skill in the resume should matter. Design of the resume should not decide whether you are selected to the next round or not. To avoid this bias completely, we are trying to get all the resume in a single, simple & same format.
 Also, we've picked one of the best resume template out there to create a resume for you. We've also followed some of the best practices from the book https://thetechresume.com/ so that you don't have to do all the hard work. We hope even if things don't end well with HackerRank internship, this resume is helpful to you.<br>
 
 <h2>Upload your resume</h2>
@@ -530,12 +558,13 @@ https://futurereadytalent.in/courses <br>
 <h2>Description</h2>
 At Apple, we work every single day to craft products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. As part of our geographical expansion, we’re looking for strong Software Development Engineers to build highly scalable data platforms and services. The people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.
 <br>
- 
- #### BASIC QUALIFICATIONS <br>
+
+#### BASIC QUALIFICATIONS <br>
+
 We are looking to hire full time software engineering interns across different organisations within Apple to intern between January - July ’22.<br>
- 
- #### ADDITIONAL REQUIREMENTS <br>
- 
+
+#### ADDITIONAL REQUIREMENTS <br>
+
 Apple has a long-standing commitment to India, with a focus on product development, iOS ecosystem expansion, manufacturing, and sales.<br>
 
 Fostering India’s vibrant and entrepreneurial iOS development community, Apple’s App Accelerator in Bengaluru provides specialised support and training to local developers and we’ve helped numerous apps find local and international success. The App Accelerator has led to more than 873,000 jobs in India that can be attributed directly to the iOS App ecosystem.<br>
@@ -551,7 +580,6 @@ https://jobs.apple.com/en-us/details/200300095/software-development-intern<br>
 <br>
 
 </details>
-
 
 <details>
  <summary> Goldman Sachs Summer Internship</summary>
@@ -595,8 +623,9 @@ Define specific performance measures, targets, and goals to enable clients to me
 Participate in developing a business case by documenting the relationship between business requirements, the proposed solution, trade-offs, and expected results.
 
 <br>
- 
- #### Eligibility <br>
+
+#### Eligibility <br>
+
 Environment:
 You should have professional knowledge related to incumbent’s position and ability to absorb professional knowledge quickly and develop skills related to technical, functional, software and soft skills.<br>
 Communication and Collaboration:
@@ -641,7 +670,7 @@ https://careers.ibm.com/job/15137642/<br>
 <br>
 
 </details>
-  
+
   <details>
 <summary>Intel - Software intern</summary>
 <br>
@@ -657,7 +686,7 @@ https://www.linkedin.com/jobs/view/2994083985/<br>
 </details>
 
 </details>
-  
+
   <details>
 <summary>Intel - Student intern</summary>
 <br>
@@ -786,9 +815,9 @@ To start the application process, you will need an updated CV or resume and a cu
  <br>
  <h1>About</h1>
  Qualifications <br><br>
- 
-• Students from diverse backgrounds and academic disciplines with a strong focus on Computer Science, Software Engineering, Business, Finance, Accounting, Economics or   Liberal Arts.
- 
+
+• Students from diverse backgrounds and academic disciplines with a strong focus on Computer Science, Software Engineering, Business, Finance, Accounting, Economics or Liberal Arts.
+
 • Students who are graduating between December 2022 – June 2023.
 Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender expression, gender identity or any other characteristic protected by law.<br>
 
@@ -800,8 +829,8 @@ Moody’s is an equal opportunity employer. All qualified applicants will receiv
  <summary>Microsoft - Research Intern</summary>
  <br>
  <h1>About</h1>
- 
- Responsibilities <br>
+
+Responsibilities <br>
 During the internship, students are paired with mentors and expected to collaborate with other interns and researchers, present findings, and contribute to the vibrant life of the community.
 
 MSR India conducts research in a wide range of areas and Internships are available in all of them.
@@ -825,9 +854,9 @@ Each applicant should request for a letter of recommendation by giving the name 
  <summary>Optum - Software Engineering Intern</summary>
  <br>
  <h1>About</h1>
- 
- Required Qualifications <br>
- 
+
+Required Qualifications <br>
+
 Uprising Junior or Senior student working towards a bachelor’s degree in Computer Science, Information Technology, Computer Engineering or related field <br>
 Understanding of object-oriented programming concepts<br>
 Working knowledge of Visual Studio, VB.NET/C#, .NET Core, .NET Framework, ASP.NET, ADO.NET, Angular, Web API<br>
@@ -838,15 +867,14 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 
 </details>
 
-
 <details>
  <summary>Outreachy Internship Program</summary>
  <br>
  <h1>About</h1>
  <br>Outreachy is a three-month-long internship program which is organized by the Software Freedom Conservancy for the people who are underrepresented in this specific field. It is a paid and remote internship, and it is conducted twice a year that is from May to August and December to March. In the Outreachy program, you will get to contribute to open source so if you are familiar to open source then this will increase your chances of getting shortlisted for the program. The amount paid as a stipend is around 7000 USD and the internship completely works from home but if you need to attend any event related to this program then the travel stipend of 500 USD is also available. The Outreachy Internship program is not only for programmers or developers, there are lots of opportunities in the Outreachy program for non-technical people too.The program is mainly for women, transgender, genderqueer, non-binary people, people of color, and people who faced discrimination because of caste or tribe.<br>
- 
- Eligibility <br>
- 
+
+Eligibility <br>
+
 -The minimum age of the applicant must be 18 at the time of applying for the program.
 -The candidate must be available to spend 40 hours or more per week throughout the program.
 -Candidates who were GSoC interns earlier are not eligible for Outreachy even if they have not completed their GSoC program successfully.
@@ -863,19 +891,19 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
   <summary>Hike - SDE Intern </summary>
  <br>
  <h1>About</h1>
- 
+
 ##### Skills & Experience We're Looking For 👨‍💻
-  
-* Bachelor's Degree in Computer Science, Software Engineering or related area
-* Experience with various programming languages such as C++/C# programming, Java, HTML5, and JavaScript
-* Ability to interact with cross-functional teams
-* Highly developed analytical and organizational skills
-* Work in an agile environment to deliver high-quality software.
-* Experience with distributed, multi-tiered systems, algorithms, and relational databases.
-* Experience in optimization mathematics such as linear programming and nonlinear optimization.
-* Ability to effectively articulate technical challenges and solutions.
-* Ability to design and code the right solutions starting with broadly defined problems.
-<br>
+
+- Bachelor's Degree in Computer Science, Software Engineering or related area
+- Experience with various programming languages such as C++/C# programming, Java, HTML5, and JavaScript
+- Ability to interact with cross-functional teams
+- Highly developed analytical and organizational skills
+- Work in an agile environment to deliver high-quality software.
+- Experience with distributed, multi-tiered systems, algorithms, and relational databases.
+- Experience in optimization mathematics such as linear programming and nonlinear optimization.
+- Ability to effectively articulate technical challenges and solutions.
+- Ability to design and code the right solutions starting with broadly defined problems.
+  <br>
 
 [official website link](https://www.linkedin.com/jobs/view/2936952678/)
 
@@ -885,17 +913,17 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
   <summary>Hike - ML Intern (Remote) </summary>
  <br>
  <h1>About</h1>
- 
+
 ##### Skills & Experience We're Looking For 👨‍💻
-  
-* B.tech/MS from a top Tier institute (preferably final year of Computer Science/Mathematics & Computing/Electronics & Communication/Physics/Statistics)
-* Strong programming abilities, especially Python Scientific Stack (Numpy, Pandas, Scikit-Learn etc.)
-* Solid foundations in Linear Algebra, Signal Processing, Optimization & Data Structures
-* Exposure to Machine Learning - preferably, Deep Learning with Pytorch/Tensorflow.
-* Excited about building cutting edge AI products in the fields of Computer Vision, Graphics, Audio, AR/VR etc.
-* Relentless passion to learn, own & deliver user delight.
-* Willingness to evolve into full time ML-Engg/ML-Scientist at Hike over the coming year or so.
-* Bonus: Familiarity with one or more of the following tech - Android, Javascript and Unity.<br>
+
+- B.tech/MS from a top Tier institute (preferably final year of Computer Science/Mathematics & Computing/Electronics & Communication/Physics/Statistics)
+- Strong programming abilities, especially Python Scientific Stack (Numpy, Pandas, Scikit-Learn etc.)
+- Solid foundations in Linear Algebra, Signal Processing, Optimization & Data Structures
+- Exposure to Machine Learning - preferably, Deep Learning with Pytorch/Tensorflow.
+- Excited about building cutting edge AI products in the fields of Computer Vision, Graphics, Audio, AR/VR etc.
+- Relentless passion to learn, own & deliver user delight.
+- Willingness to evolve into full time ML-Engg/ML-Scientist at Hike over the coming year or so.
+- Bonus: Familiarity with one or more of the following tech - Android, Javascript and Unity.<br>
 [official website link](https://www.linkedin.com/jobs/view/2984233909/)
 </details>
 
@@ -925,32 +953,32 @@ https://www.linkedin.com/jobs/view/3016144294/<br>
 <summary> Merkle Software Design Engineer - Intern- Java </summary>
 <br>
 About <br>
- 
-#### What would your day look like: 
- 
+
+#### What would your day look like:
+
 Implement solutions for broadly defined problems <br>
 Must have JAVA knowlegde.<br>
- Be involved in full fledged product development.  <br>
- Collaborate with cross-functional teams to define, design, and Build New Features, Push them to production fast.<br>
- Be part of daily scrums, ideate and brainstorm solutions with Managers, Mentors and show off your convincing skills.<br>
- Do peer code reviews, write automation tests, we have OCD when it comes to quality.  <br>
- Unit-test code for robustness, including edge cases, usability, and general reliability.  <br>
- Work on bug fixing and improving application performance.  <br>
- Debug production issues across services and levels of the stack  <br>
- Discuss new ideas in weekly tech forum with your peers and mentors <br>
-  
+Be involved in full fledged product development. <br>
+Collaborate with cross-functional teams to define, design, and Build New Features, Push them to production fast.<br>
+Be part of daily scrums, ideate and brainstorm solutions with Managers, Mentors and show off your convincing skills.<br>
+Do peer code reviews, write automation tests, we have OCD when it comes to quality. <br>
+Unit-test code for robustness, including edge cases, usability, and general reliability. <br>
+Work on bug fixing and improving application performance. <br>
+Debug production issues across services and levels of the stack <br>
+Discuss new ideas in weekly tech forum with your peers and mentors <br>
+
 Qualifications:<br>
-  
-You'd fit right in if you have:  
- 
+
+You'd fit right in if you have:
+
 • Have a solid grounding in Computer Science fundamentals
-• Are good at Problem solving  
-• Know and have good hands on at least more than 2 programming languages with ease and have a strong opinion of which one is your favorite.  
-• Have actively developed firsthand any web application with database/datastore, simple or complex does not matter to us, using Nodejs/Java/Python or any other language and deployed or thinking of deploying it on any cloud server like AWS/GCP etc.  
+• Are good at Problem solving
+• Know and have good hands on at least more than 2 programming languages with ease and have a strong opinion of which one is your favorite.
+• Have actively developed firsthand any web application with database/datastore, simple or complex does not matter to us, using Nodejs/Java/Python or any other language and deployed or thinking of deploying it on any cloud server like AWS/GCP etc.
 • We would love to look at your Github repo or links to the deployed web-app. Beautiful UI does not matter, as much as a Postman collection does, so bonus marks for creating API documentation or having a detailed README on Github.
 • Have the right attitude, are a team player and an avid learner.
-  
-Join us If you are excited about:  <br>
+
+Join us If you are excited about: <br>
 
 • Opportunities to learn bleeding edge technologies, from scratch, on real-life projects as an Intern.
 
@@ -1035,7 +1063,6 @@ ParchAI is hiring for SDE Intern
   website - https://parchai.io/
   <br>
 - For applying, send your CV at
-
   - hr@parchai.io
 
   </details>
@@ -1044,9 +1071,9 @@ ParchAI is hiring for SDE Intern
 <summary> HP - Summer Interns 2022 </summary>
 <br>
 About <br>
- 
+
 #### Responsibilities:
- 
+
 Apprentice includes students working at hp who are enrolled in apprenticeship programs in association with their university. Typically used in countries where specialized apprenticeship programs exist. College Interns are university students who are working at hp during their study or in summer breaks between university semesters. College Intern is only used in selected countries where it is not the practice to differentiate based on academic year completed.<br>
 
 Education and Experience Required:<br>
@@ -1061,35 +1088,39 @@ https://jobs.hp.com/jobdetails/15465850/<br>
 <details>
   <summary>MLH Fellowship</summary>
  <br>
- 
+
 ### About
- 
- A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
- 
+
+A fully remote, 12-week internship where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
+
 ### Tracks
- 
+
 #### Open Source
- Learn how to be a great Open Source citizen by contributing to Web2 and Web3 projects that are used by thousands of companies around the world.
- 
+
+Learn how to be a great Open Source citizen by contributing to Web2 and Web3 projects that are used by thousands of companies around the world.
+
 #### Software Engineering
- For aspiring Software Engineers who want to experience what it's like to collaborate on real-world projects from our partners.
- 
+
+For aspiring Software Engineers who want to experience what it's like to collaborate on real-world projects from our partners.
+
 #### Site Reliability Engineering
- For aspiring SREs who want to learn the skills required to keep systems running at scale.
- 
+
+For aspiring SREs who want to learn the skills required to keep systems running at scale.
+
 #### Web3 Engineering:
- For hackers who want to dive deep into blockchain technology.
- 
+
+For hackers who want to dive deep into blockchain technology.
+
 ### Batches
- 
- - Spring (Jan - Apr)
- - Summer A (May - Aug)
- - Summer B (Jun - Sep)
- - Fall (Sep - Dec)
- 
+
+- Spring (Jan - Apr)
+- Summer A (May - Aug)
+- Summer B (Jun - Sep)
+- Fall (Sep - Dec)
+
 [official website link](https://fellowship.mlh.io/)
 <br>
- 
+
 </details>
 
 <details>
@@ -1102,57 +1133,55 @@ It is an international organization providing cutting edge work experience for s
 
 ### Ideal candidate
 
- - You must be between the ages of 19 and 30.
- - You must speak good English.
- - You must be currently enrolled Full-time in a Bachelor’s or Master’s degree at the time of application.
+- You must be between the ages of 19 and 30.
+- You must speak good English.
+- You must be currently enrolled Full-time in a Bachelor’s or Master’s degree at the time of application.
+
 ### Cost/funding for participants
 
- - A cost of living allowance that will at least cover food, accommodation and travel to and from work
- - The exact amount is determined by the cost of living in the country and the Employer.
- - You will have to pay for your own travel costs to your receiving country and for personal insurance for the duration of the traineeship.
- 
+- A cost of living allowance that will at least cover food, accommodation and travel to and from work
+- The exact amount is determined by the cost of living in the country and the Employer.
+- You will have to pay for your own travel costs to your receiving country and for personal insurance for the duration of the traineeship.
+
 [Official IASTE website](https://iaeste.org/internships)
+
 </details>
 <details>
 <summary> YEXT - Software Engineer Summer Intern
 2023 </summary>
 <br>
 About <br>
- 
+
 #### Responsibilities:
- 
+
 The Yext Professional Service team is looking for Full Stack Software Engineers to join a fast-paced, cross-functional team working to deliver customized Yext products for our largest enterprise customers. ProServ SWEs work with engagement managers and designers to deliver customized Yext Pages, Data Integrations, Dashboards, and other solutions for Fortune 500 level clients. Our tech stack includes Closure Templates (soy), SCSS, ES6 JavaScript, Node.js, Go, and Java. We take pride in our ability to tackle any engineering challenge and keep pace with the ever-changing needs of our clients and the market. We value engineers that have a passion for technology (particularly front end development), display a willingness to jump in, and are excited to be part of a cross-functional, client-facing team. <br>
 
 Education and Experience Required:<br>
 Enrolled in University.<br>
-
 
 Official Website- <br>
 https://boards.greenhouse.io/yext/jobs/4507905<br>
 <br>
 
 </details>
- 
- 
- 
+
  <details>
 <summary> Motorolasolutions- Manufacturing Test Engineer Intern (2023 Internship) </summary>
 <br>
 About <br>
- 
+
 #### Responsibilities:
- 
-Motorola Solutions is there for our customers when everything is on the line. In extreme moments — when a hurricane lands or when a fire breaks out. And in everyday moments — when a package arrives just in time for the holiday or when a child doesn’t miss the school bus home. 
+
+Motorola Solutions is there for our customers when everything is on the line. In extreme moments — when a hurricane lands or when a fire breaks out. And in everyday moments — when a package arrives just in time for the holiday or when a child doesn’t miss the school bus home.
 
 We unify voice, data, video and analytics in one integrated ecosystem to enable individuals, businesses and communities to work together in more powerful ways. To help people make better decisions, act confidently and be their best in the moments that matter. Bring your passion, potential and talents to Motorola Solutions and connect with a career that matters.<br>
-  
+
 Candidates must be currently pursuing a Bachelor's Degree specifically in the fields of Electrical Engineering, Computer Science or Computer Engineering.<br>
 
 Must have a graduation date on or after December 2023
 
 Education and Experience Required:<br>
 Enrolled in University.<br>
-
 
 Official Website- <br>
 https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
@@ -1164,9 +1193,9 @@ https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
 <summary> Programa de Estágio BEES </ BEESVERSE > </summary>
 <br>
 About <br>
- 
+
 #### Responsibilities:
- 
+
 1. Estar cursando os últimos dois anos de graduação (penúltimo ou último ano).
 2. Vontade em aprender inglês para os próximos passos de carreira.
 
@@ -1184,12 +1213,12 @@ https://programasambev.gupy.io/jobs/2987579<br>
 <br>
 
 </details>
- 
+
  <details>
 <summary> <b>Web Development work from home job/internship at Disruptive Consultancy Services Private Limited (Development Monitors India)<b> </summary>
 <br>
 About Disruptive Consultancy Services Private Limited (Development Monitors India) <br>
-As one of the Prime Subcontractors of the World Bank, German Bank and other donor organizations, development monitors has intensive experience in the field of international development and third-party monitoring. Along with that, DM has a product development branch that deals with drone development, post-processing of captured imagery, and development of software to accomplish those tasks. 
+As one of the Prime Subcontractors of the World Bank, German Bank and other donor organizations, development monitors has intensive experience in the field of international development and third-party monitoring. Along with that, DM has a product development branch that deals with drone development, post-processing of captured imagery, and development of software to accomplish those tasks.
 
 About the work from home job/internship
 Selected intern's day-to-day responsibilities include:
@@ -1197,7 +1226,6 @@ Selected intern's day-to-day responsibilities include:
 1. Work development of GIS web application using ThreeJS
 2. Work on the development of online surveys in KoBoToolbox using xlsForms and xlsFormat
 3. Work on the day-to-day management of IT as the IT admin
-
 
 Skill(s) required <br>
 1.Bootstrap <br>
@@ -1214,6 +1242,7 @@ Only those candidates can apply who:
 4. have relevant skills and interests
 
 Perks <br>
+
 1. 5 days a week
 2. Letter of recommendation
 3. Flexible work hours
@@ -1221,7 +1250,6 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-disruptive-consultancy-services-private-limited-development-monitors-india1664980247
 
 </details>
- 
 
  <details>
 <summary>PhonePe Tech Scholars Program</summary>
@@ -1234,8 +1262,8 @@ Girl Students graduating from a Bachelors in 2023 (Final year)<br>
 Official Website- <br>
 https://challenge24.org/](https://www.crio.do/phonepe-tech-scholars-program/?utm_source=linkedin&utm_medium=inmail-r&li_fat_id=11de18f8-f74d-41bd-87a0-b0afa0c49839)
 <br>
+
 </details>
- 
 
 <details>
 <summary> Content Writing Intern @ TechEagle Innovation</summary>
@@ -1248,42 +1276,41 @@ became one of the first ventures to receive approvals from DGCA, MoCA, AAI & MHA
 conduct Beyond Visual Line of Sight (BVLOS) trials for package delivery via Drones in
 India.
 
-
 Roles & responsibilities of Content Writing Intern:
 
 -Create content marketing campaigns to drie leads and use SEO best
 practices to increase traffic to the company website
- -Regularly produce arious content types, including email, social media posts,
+-Regularly produce arious content types, including email, social media posts,
 blogs etc.
 
 -Actiely manage and promote our blog, and pitch articles to releant third-
 party platforms
 
- -Edit content produced by other members of the team
- -Conducting in-depth research on industry-related topics in order to deelop
+-Edit content produced by other members of the team
+-Conducting in-depth research on industry-related topics in order to deelop
 original content
- -Assisting the marketing team in deeloping content for adertising campaigns
- -Proofreading content for errors and inconsistencies 
- -Creating compelling headlines and body copy that will capture the attention of
+-Assisting the marketing team in deeloping content for adertising campaigns
+-Proofreading content for errors and inconsistencies
+-Creating compelling headlines and body copy that will capture the attention of
 the target audience
- -Identifying customers needs and recommending new content to address gaps
+-Identifying customers needs and recommending new content to address gaps
 in the company's current content
 
 Pre-requisites:
 
 Bachelor's degree in communications, marketing, English, journalism, or any
 field
- Knowledge of digital marketing tactics, including SEO, email marketing and web
+Knowledge of digital marketing tactics, including SEO, email marketing and web
 analytics
- Excellent writing skills, as well as the ability to communicate and collaborate
+Excellent writing skills, as well as the ability to communicate and collaborate
 effectiely
- The ability to consistently meet tight deadlines
- Working knowledge of content management systems
- A portfolio of published articles
- Excellent writing and editing skills
- The ability to work in a fast-paced enironment
- The ability to handle multiple projects concurrently
- 
+The ability to consistently meet tight deadlines
+Working knowledge of content management systems
+A portfolio of published articles
+Excellent writing and editing skills
+The ability to work in a fast-paced enironment
+The ability to handle multiple projects concurrently
+
 Perks & benefits:
 
 Competitive Stipend
@@ -1291,14 +1318,12 @@ We invest in personal growth.
 Travel & Fieldwork opportunities.
 Your ideas and opinions matter to us.
 
-
-
 Official Website- <br>
 https://tinyurl.com/techeagle-hiring<br>
 <br>
 
 </details>
- 
+
  <details>
 <summary> Content Writing Intern </summary>
 <br>
@@ -1307,7 +1332,6 @@ About <br>
 CoConnexion is seeking a committed content writer to write blog posts, articles, product descriptions, social media posts, and content for the corporate website. The content writer's tasks include analyzing analytics to alter material as needed, updating the firm's website on a regular basis, and pitching pieces to various third-party platforms to promote the corporate blog.
 
 When developing material, you should also be able to follow editorial requirements. You should stay up to date on the latest SEO tactics to be a great content writer. Finally, a top-performing Content Writer should be able to contribute to the creation of reader engagement tactics.
-
 
 Roles & responsibilities of Content Writing Intern:
 
@@ -1346,8 +1370,6 @@ Performance-based letter of recommendation
 Prospects for the future (subjected to exceptional performance)
 For your encouragement, we appreciate your outstanding performance to give you recognition for your contribution to the team.
 
-
-
 Profile: Part-time internship
 
 Location: Remote
@@ -1360,9 +1382,7 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 <br>
 
 </details>
- 
- 
- 
+
 <details>
 <summary>Cognegic Systems SDE Intern</summary>
 <br>
@@ -1370,8 +1390,8 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 Cognegic Systems Pvt Ltd is an Ed-Tech company recognized by the government of India, proudly certified by ISO 9001:2015 for its quality in information Technology.
 Cognegic Systems is recognized from Startup India (Central Govt of India) & MSME Registered .
 
-
 Details of Internship:
+
 <ul>
   <li>The Internship period will be for 3 months.</li>
   <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
@@ -1389,11 +1409,10 @@ Pre-requisites:
   <li>B.Tech / B.E- (CSE/IT)/MCA</li>
 </ul>
 
-Hiring process: 
+Hiring process:
 
-Step 1: Online Test (Aptitude + Coding) 
+Step 1: Online Test (Aptitude + Coding)
 Step 2: Online Technical Interviews based on the concepts of OOPs, Database, any programming language (Java preferably)
-
 
 Profile: Full-time internship
 
@@ -1418,6 +1437,7 @@ Cuvette (pronounced as Q-vet) is the #1 way for College students & Early Graduat
 Official Website- <br>
 https://www.codersarts.com//<br>
 <br>
+
  <ul>
   <li>The Internship period will be for 6 months.</li>
   <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 6 months.</li>
@@ -1436,7 +1456,7 @@ Spending your summer at Deloitte is a fantastic way to get up close to the world
 Official Website- <br>
 https://www2.deloitte.com/ie/en/pages/careers/articles/summer-intern-programme.html<br>
 <br>
- 
+
 <details>
 <summary>CI&T Next Gen 2023 - Brazil</summary>
 <br>
@@ -1464,8 +1484,6 @@ https://ciandt.com/br/pt-br/carreiras/programa-de-estagio?utm_source=linkedin&ut
 
 </details>
 
-
-
  <details>
 <summary> Java Development part time job/internship at Multiple locations in Techvolt Software Private Limited </summary>
 <br>
@@ -1477,6 +1495,7 @@ Official Website- <br>
 https://www.techvoltcoimbatore.com/<br>
 <br>
 Details of Internship:
+
 <ul>
   <li>The Internship period will be for 6 months.</li>
   <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
@@ -1484,14 +1503,14 @@ Details of Internship:
 
 </ul>
 </details>
- 
+
  <details>
 <summary> Duolingo Thrive Intern software program</summary>
 <br>
 About <br>
- 
-#### What is the Duolingo Thrive Intern program? : 
- 
+
+#### What is the Duolingo Thrive Intern program? :
+
 The Duolingo Thrive Program is an immersive 8-week summer internship program that provides second-year students from communities underrepresented in tech the opportunity to develop their technical skills and experience what it’s like to work at Duolingo.<br><br>
 
 Our inaugural “Thrive” class is made up of 8 rising juniors majoring in computer science. Each Thrive Intern started this summer excited to conquer new challenges and help us develop better language education for learners around the world.<br><br>
@@ -1499,7 +1518,7 @@ Our inaugural “Thrive” class is made up of 8 rising juniors majoring in comp
 In addition to the extraordinary “DuoIntern” experience, there are three core elements that make the Duolingo Thrive Program unique:<br><br>
 
 ### 1.Hootcamp<br>
-  
+
 First is <b>Hootcamp!</b> Hootcamp is a series of interactive courses led by Duos from across the company. Each course is designed to introduce Thrive Interns to the basics of software engineering at Duolingo and prepare interns for navigating their future careers. Some examples of Hootcamp courses include:<br>
 
 Systems Architecture<br>
@@ -1508,7 +1527,7 @@ Metrics and Testing<br>
 Financial Planning<br>
 Networking 101<br>
 ...and 15+ more!<br>
-  
+
 ### 2.Unique group projects with Duolingo software engineers<br>
 
 Our second core element is the projects the Thrive Interns develop. Hootcamp gives our Thrive Interns the tools and skills to collaborate with each other in building out their uniquely impactful group projects. Our interns were divided into two groups of four and led by a Duolingo Software Engineer called a “Thrive Advisor.” Each group was fully integrated into one of our product teams, and this year, they worked on two projects:<br>
@@ -1527,7 +1546,6 @@ Collaboration and communication<br>
 Interns’ individual professional journeys<br>
 The impact of the Duolingo Thrive Program is designed to last far beyond our interns’ 8 weeks at Duolingo. Our Thrive Buddies have built meaningful relationships with their interns and are committed to mentoring them through their return to school in the fall and as they transition into professional life.<br>
 
-
 Official Website- <br> https://careers.duolingo.com/?type=Thrive%20Program#openings
 <br>
 
@@ -1541,8 +1559,9 @@ We are a team of world class builders and researchers with expertise across seve
 Official Website- <br>
 https://cryptocurrencyjobs.co/other/nethermind-internship-program/
 <br>
+
 </details>
- 
+
  <details>
 <summary> Internship at Paloalto networks </summary>
 <br>
@@ -1554,8 +1573,9 @@ In the span of twelve weeks, interns experience unique learning opportunities an
 Official Website- <br>
 https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
 <br>
+
 </details>
- 
+
  <details>
 <summary> Internship at Cadence For Software Engineering</summary>
 <br>
@@ -1580,6 +1600,7 @@ Excellent verbal and written communication skills<br>
 Official Website- <br>
 https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Intern-Software-Engineering_R40917
 <br>
+
 </details>
 <details>
 <summary> Hackerearth Internship </summary>
@@ -1597,28 +1618,27 @@ Create/Update/Review of HackerEarth’s ML practice section articles
 Apply Here - <br>
 https://hackerearthjobs.hire.trakstar.com/jobs/fk0ste6/
 <br>
+
 </details>
- 
- 
+
  <details>
 <summary> McAfee - Software Engineering Intern</summary>
 <br>
 <h1>About</h1>
 McAfee is hiring for the position of Software Engineering Intern!<br><br>
 
-
 ##### RESPONSIBILITIES OF THE INTERN:
 
 - Collaborate with teams, be challenged by and together dream up the next big solution.<br>
-- Interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate the feasibility of requirements   and determine priorities for development.<br>
+- Interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate the feasibility of requirements and determine priorities for development.<br>
 - Follow a collaborative process with architects and peers to find innovative solutions to group-specific business problems.<br>
 - Prove your ideas with proofs-of-concept and follow on with creating production-quality solutions.<br>
 - Develop your skills in line with your interests, take on increased responsibilities as you develop within the organization.
   <br><br>
-  
- ##### BASIC REQUIREMENTS:
 
-- You have a love of good code and an instinct for clean design. A knowledge of software design principles and of at least one of the languages we use (Java, C,         Python, or C#)<br>
+##### BASIC REQUIREMENTS:
+
+- You have a love of good code and an instinct for clean design. A knowledge of software design principles and of at least one of the languages we use (Java, C, Python, or C#)<br>
 - Eagerness to learn and switch between programming languages to best suit the job at hand.<br>
 - A degree in computer science is preferred real-world programming experience to earn the respect of your colleagues.<br>
 - Experience working with databases (relational or NoSql)<br>
@@ -1627,21 +1647,22 @@ McAfee is hiring for the position of Software Engineering Intern!<br><br>
 - Familiarity with iterative software development and rapid prototyping methodologies<br>
 - Good technical communication skills and the ability to explain complex concepts clearly and succinctly in both writing and speech<br>
   <br>
-  
+
 ##### ABOUT THE ROLE:
-  
-- You will be surrounded by a team of passionate engineers off whom you will bounce ideas, will collaborate with, be challenged by, and together dream up the next big   solution.<br>
-- You will interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate feasibility of  
+
+- You will be surrounded by a team of passionate engineers off whom you will bounce ideas, will collaborate with, be challenged by, and together dream up the next big solution.<br>
+- You will interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate feasibility of
   requirements and determine priorities for development. <br>
 - You will follow a collaborative process with architects and peers to find innovative solutions to group specific business problems.<br>
 - You will have the opportunity to prove your ideas with proofs-of-concept and follow on with creating production-quality solutions.<br>
 - You will develop your skills in line with your interests, taking on increased responsibilities as you develop within the organization.<br>
-<br>
+  <br>
 
 ##### Website Link - https://careers.mcafee.com/job/-/-/731/38695557632
+
   <br>
 </details>
- 
+
   <details>
 <summary> Web Developer Intern </summary>
 <br>
@@ -1658,8 +1679,8 @@ Duration - 1 Month - Extendible <br>
 Official Website- <br>
 https://www.linkedin.com/jobs/view/3331165177
 <br>
-</details>
 
+</details>
 
 <details>
 <summary> 2023 Intern - Software Engineering ADOBE </summary>
@@ -1709,7 +1730,7 @@ Experience with Spring framework
 
 Knowledge about and familiarity with infrastructure technologies used in distributed cloud systems like containerisation, NoSQL databases, IaaS providers, CI/CD and monitoring tools
 
-What to expect from the recruitment process  
+What to expect from the recruitment process
 
 All applications will be reviewed after the close date, so please don’t panic if you don’t hear from us straight away! Our selection process typically consists of three stages as follows:
 
@@ -1724,6 +1745,7 @@ Benefits
 At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists. You will be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. In Hamburg, we like to work in our fantastic office at the Fischmarkt with full view on the harbor, but you can flexibly work from home when needed.
 
 If you’re looking to make an impact, Adobe is the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
-  website - https://careers.adobe.com/us/en/job/R133739/Intern-2023-Software-Engineering
-  <br>
+website - https://careers.adobe.com/us/en/job/R133739/Intern-2023-Software-Engineering
+<br>
+
 </details>
